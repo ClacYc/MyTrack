@@ -1,2 +1,2 @@
 # MyTrack
-# Here are some learning records about DL / CV / Tracking / Dylan by myself. 
+# Here are some learning records about DL / CV / Tracking / by myself. 
